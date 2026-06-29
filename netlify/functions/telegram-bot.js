@@ -1,9 +1,5 @@
-// Telegram Bot Webhook — обробляє команду /start
-// Після деплою встановіть webhook:
-// https://api.telegram.org/bot<TOKEN>/setWebhook?url=https://bible-alias.netlify.app/.netlify/functions/telegram-bot
-
 const TOKEN = process.env.BOT_TOKEN;
-const SITE_URL = process.env.URL || 'https://bible-alias.netlify.app';
+const SITE_URL = process.env.SITE_URL || process.env.URL || 'https://your-site.netlify.app';
 
 exports.handler = async (event) => {
   if (event.httpMethod !== 'POST') {

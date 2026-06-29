@@ -1,74 +1,74 @@
-# Налаштування та запуск
+# Setup & Configuration
 
-## Локальний запуск
+## Local Development
 
-Просто відкрийте `index.html` у браузері. Все працює одразу.
+Open `index.html` in a browser. No server required.
 
-## Деплой на Netlify
+## Deploy to Netlify
 
-1. Зайдіть на https://app.netlify.com
-2. Натисніть **Add new site** → **Import an existing project**
-3. Підключіть GitHub і виберіть репозиторій
-4. Налаштування підтягнуться з `netlify.toml` автоматично
-5. Натисніть **Deploy**
+1. Go to https://app.netlify.com
+2. Click **Add new site** → **Import an existing project**
+3. Connect GitHub and select your repository
+4. Settings are auto-detected from `netlify.toml`
+5. Click **Deploy**
 
 ## Telegram Bot
 
-### Створення бота
+### Create a Bot
 
-1. Відкрийте [@BotFather](https://t.me/BotFather)
-2. `/newbot` — задайте ім'я та username
+1. Open [@BotFather](https://t.me/BotFather)
+2. `/newbot` — choose name and username
 
-### Налаштування Mini App
+### Set Environment Variables
 
-У BotFather:
-- `/mybots` → ваш бот → **Bot Settings** → **Domain** → введіть:
+In Netlify **Site settings** → **Environment variables** → **Add a variable**:
+- `BOT_TOKEN` — your bot token from BotFather
+- `SITE_URL` — your site URL, e.g. `https://your-app.netlify.app` (optional, falls back to `URL` env var)
+
+### Configure Mini App
+
+In BotFather:
+- `/mybots` → your bot → **Bot Settings** → **Domain** → enter your site domain:
   ```
-  bible-alias.netlify.app
+  your-app.netlify.app
   ```
-- `/mybots` → ваш бот → **Bot Settings** → **Menu Button** → введіть:
+- `/mybots` → your bot → **Bot Settings** → **Menu Button** → enter:
   ```
-  https://bible-alias.netlify.app
+  https://your-app.netlify.app
   ```
 
-### Webhook для команди /start
+### Set Webhook
 
-1. На Netlify додайте змінну оточення:
-   - **Site settings** → **Environment variables** → **Add a variable**
-   - Key: `BOT_TOKEN`
-   - Value: токен від BotFather
+Open in browser:
+```
+https://api.telegram.org/bot<TOKEN>/setWebhook?url=https://your-app.netlify.app/.netlify/functions/telegram-bot
+```
+Replace `<TOKEN>` with your bot token from BotFather.
 
-2. Відкрийте в браузері:
-   ```
-   https://api.telegram.org/bot<TOKEN>/setWebhook?url=https://bible-alias.netlify.app/.netlify/functions/telegram-bot
-   ```
-   Замість `<TOKEN>` підставте токен бота.
+Expected response:
+`{"ok":true,"result":true,"description":"Webhook was set"}`
 
-3. Має прийти відповідь:
-   `{"ok":true,"result":true,"description":"Webhook was set"}`
+### Icon & Description
 
-### Іконка та опис
+In BotFather:
+- `/setuserpic` — upload `assets/icons/icon.png`
+- `/setdescription` — paste game description
 
-У BotFather:
-- `/setuserpic` — завантажте `assets/icons/icon.png`
-- `/setdescription` — вставте опис гри
+## Word Database
 
-## База слів
+JSON files in `data/`. To add words or categories:
+1. Edit the corresponding JSON
+2. Commit and push
+3. Netlify auto-deploys
 
-Файли JSON у папці `data/`. Щоб додати нові слова або категорії:
-1. Відредагуйте відповідний JSON
-2. Закомітьте та запуште
-3. Netlify передеплоїть сайт автоматично
-
-## Структура проекту
+## Project Structure
 
 ```
-AliasFinal/
-├── assets/icons/       # Іконки
-├── css/                # Стилі
-├── data/               # JSON зі словами
-├── js/                 # Скрипти
-├── netlify/functions/  # Функції для Telegram бота
-├── netlify.toml        # Конфіг Netlify
-└── index.html          # Головна сторінка
+├── assets/icons/       # Icons
+├── css/                # Styles
+├── data/               # Word JSON files
+├── js/                 # Scripts
+├── netlify/functions/  # Telegram bot webhook
+├── netlify.toml        # Netlify config
+└── index.html          # Entry point
 ```
