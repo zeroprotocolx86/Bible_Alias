@@ -17,8 +17,9 @@ const Game = {
   currentWordIndex: 0,
   wordQueue: [],
   roundWords: [], // {word, result: 'correct'|'skipped'|'unplayed'}
-  teamScores: [], // array of scores per team
-  teamRoundScores: [], // array of per-round scores per team
+  teamScores: [],
+  teamRoundScores: [],
+  teamWordTotals: [],
   
   timer: null,
   timeRemaining: 0,
@@ -50,6 +51,7 @@ const Game = {
     Object.assign(this.settings, settings);
     this.teamScores = this.settings.teams.map(() => 0);
     this.teamRoundScores = this.settings.teams.map(() => 0);
+    this.teamWordTotals = this.settings.teams.map(() => 0);
     this.currentRound = 1;
     this.currentTeamIndex = 0;
     this.state = 'idle';
@@ -144,6 +146,7 @@ const Game = {
     this.roundWords[this.currentWordIndex].result = 'correct';
     this.teamScores[this.currentTeamIndex] += this.settings.pointsCorrect;
     this.teamRoundScores[this.currentTeamIndex] += this.settings.pointsCorrect;
+    this.teamWordTotals[this.currentTeamIndex]++;
     this.stats.totalCorrect++;
     this.stats.currentStreak++;
     if (this.stats.currentStreak > this.stats.bestStreak) {
@@ -202,7 +205,7 @@ const Game = {
     const roundsTotalEl = document.getElementById('game-rounds-total');
     const teamEl = document.getElementById('game-team-name');
     
-    if (correctEl) correctEl.textContent = this.teamScores[this.currentTeamIndex];
+    if (correctEl) correctEl.textContent = this.teamWordTotals[this.currentTeamIndex];
     const played = this.roundWords.filter(w => w.result !== 'unplayed');
     if (skippedEl) skippedEl.textContent = played.length > 0
       ? played.filter(w => w.result === 'skipped').length
@@ -213,7 +216,7 @@ const Game = {
   },
 
   _showRoundSummary() {
-    const correctCount = this.teamRoundScores[this.currentTeamIndex];
+    const correctCount = this.roundWords.filter(w => w.result === 'correct').length;
     const skippedCount = this.roundWords.filter(w => w.result === 'skipped').length;
     const totalPlayed = this.roundWords.filter(w => w.result !== 'unplayed').length;
     
