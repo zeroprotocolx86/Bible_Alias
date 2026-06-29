@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "city_1",
+    "word": "Єн-Ґеді",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "1 Самуїлова",
+    "chapter": 23,
+    "verse": 29,
+    "description": "Оазис в Юдейській пустелі",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_2",
+    "word": "Єрихон",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Книга Ісуса Навина",
+    "chapter": 2,
+    "verse": 1,
+    "description": "Місто пальм, перше завойоване місто в Ханаані",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_3",
+    "word": "Єрусалим",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Книга Суддів",
+    "chapter": 1,
+    "verse": 7,
+    "description": "Столиця Ізраїля, святе місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Столиця"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_4",
+    "word": "Авен",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Єзекіїл",
+    "chapter": 30,
+    "verse": 17,
+    "description": "Місто в Єгипті, центр сонячного культу",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_5",
+    "word": "Адма",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 19,
+    "description": "Місто в долині Сіддім, зруйноване з Содомом",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_6",
+    "word": "Аккад",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 10,
+    "description": "Місто в землі Шинеар, царство Німрода",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Акко",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Судді",
+    "chapter": 1,
+    "verse": 31,
+    "description": "Місто в Галілеї",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_7",
+    "enabled": true
+  },
+  {
+    "id": "city_8",
+    "word": "Аммон",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Повторення Закону",
+    "chapter": 2,
+    "verse": 19,
+    "description": "Столиця аммонітян",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_9",
+    "word": "Амфіполь",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 17,
+    "verse": 1,
+    "description": "Місто в Македонії, через яке проходив Павло",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_10",
+    "word": "Анатот",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Єремія",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Місто в коліні Веніамина, рідне місто Єремії",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_11",
+    "word": "Аполлонія",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 17,
+    "verse": 1,
+    "description": "Місто в Македонії",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Арад",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Числа",
+    "chapter": 21,
+    "verse": 1,
+    "description": "Ханаанське місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_12",
+    "enabled": true
+  },
+  {
+    "id": "city_13",
+    "word": "Ароер",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Повторення Закону",
+    "chapter": 2,
+    "verse": 36,
+    "description": "Місто на березі Арнону",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_14",
+    "word": "Аріматея",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 27,
+    "verse": 57,
+    "description": "Місто в Юдеї, звідки походив Йосип",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_15",
+    "word": "Аскалон",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Книга Суддів",
+    "chapter": 1,
+    "verse": 18,
+    "description": "Місто филистимлян, одне з п'яти головних міст",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_16",
+    "word": "Ахая",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 12,
+    "description": "Римська провінція в Греції",
+    "tags": [
+      "Новий Заповіт",
+      "Місто",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_17",
+    "word": "Ашдод",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Книга Ісуса Навина",
+    "chapter": 11,
+    "verse": 22,
+    "description": "Филистимське місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Ашкалон",
+    "aliases": [
+      "Аскалон"
+    ],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Судді",
+    "chapter": 1,
+    "verse": 18,
+    "description": "Филистимське місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_18",
+    "enabled": true
+  },
+  {
+    "id": "city_19",
+    "word": "Аштерот-Карнаїм",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 14,
+    "verse": 5,
+    "description": "Місто рефаїв на схід від Йордану",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Бет-Ель",
+    "aliases": [
+      "Вефиль"
+    ],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Буття",
+    "chapter": 12,
+    "verse": 8,
+    "description": "Місто, де Яків бачив сходи",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_20",
+    "enabled": true
+  },
+  {
+    "word": "Бет-Шемеш",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "1 Самуїлова",
+    "chapter": 6,
+    "verse": 9,
+    "description": "Місто священників",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_21",
+    "enabled": true
+  },
+  {
+    "word": "Боцра",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Буття",
+    "chapter": 36,
+    "verse": 33,
+    "description": "Місто в Едомі",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_22",
+    "enabled": true
+  },
+  {
+    "id": "city_23",
+    "word": "Вавилон",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 10,
+    "description": "Столиця Вавилонського царства, місто вежі",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Столиця"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_24",
+    "word": "Вефиль",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 12,
+    "verse": 8,
+    "description": "Місто, де Яків бачив драбину до неба",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_25",
+    "word": "Віфанія",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 21,
+    "verse": 17,
+    "description": "Село біля Єрусалиму, дім Марти та Марії",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_26",
+    "word": "Віфлеєм",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Рут",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Місто Давида, місце народження Ісуса",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_27",
+    "word": "Віфсаїда",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Марк",
+    "chapter": 6,
+    "verse": 45,
+    "description": "Місто в Галілеї, рідне місто Петра",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_28",
+    "word": "Газа",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 19,
+    "description": "Місто филистимлян на південному заході",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_29",
+    "word": "Гай",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 12,
+    "verse": 8,
+    "description": "Місто біля Вефилю, завойоване Ісусом Навином",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Гат",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "1 Самуїлова",
+    "chapter": 5,
+    "verse": 8,
+    "description": "Филистимське місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_30",
+    "enabled": true
+  },
+  {
+    "id": "city_31",
+    "word": "Гоморра",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 19,
+    "description": "Місто в долині Сіддім, зруйноване сіркою та вогнем",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_32",
+    "word": "Дамаск",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 14,
+    "verse": 15,
+    "description": "Столиця Сирії, древнє місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_33",
+    "word": "Дан",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 14,
+    "verse": 14,
+    "description": "Місто на півночі Ізраїля, крайня точка землі",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_34",
+    "word": "Дервія",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 14,
+    "verse": 20,
+    "description": "Місто в Лікаонії, яке відвідав Павло",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_35",
+    "word": "Дивон",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Числа",
+    "chapter": 21,
+    "verse": 30,
+    "description": "Місто в Моаві",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_36",
+    "word": "Дотан",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 37,
+    "verse": 17,
+    "description": "Місто, де Йосипа продали в рабство",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_37",
+    "word": "Екрон",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Книга Ісуса Навина",
+    "chapter": 13,
+    "verse": 3,
+    "description": "Филистимське місто, останнє з п'яти головних",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_38",
+    "word": "Ела",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "1 Самуїлова",
+    "chapter": 17,
+    "verse": 2,
+    "description": "Долина, де Давид переміг Ґоліята",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Долина"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_39",
+    "word": "Елам",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 14,
+    "verse": 1,
+    "description": "Давнє місто-царство на схід від Вавилону",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_40",
+    "word": "Ен-Ґеді",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "1 Самуїлова",
+    "chapter": 23,
+    "verse": 29,
+    "description": "Оазис на західному березі Мертвого моря",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_41",
+    "word": "Ерех",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 10,
+    "description": "Місто в землі Шинеар",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_42",
+    "word": "Ефес",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 19,
+    "description": "Місто в Малій Азії, центр ранньої церкви",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_43",
+    "word": "Кадеш",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Числа",
+    "chapter": 13,
+    "verse": 27,
+    "description": "Місце в пустелі, де Ізраїль перебував довгий час",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_44",
+    "word": "Калах",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 11,
+    "description": "Місто в Ассирії",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_45",
+    "word": "Кана",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Іван",
+    "chapter": 2,
+    "verse": 1,
+    "description": "Місто в Галілеї, де Ісус зробив перше чудо",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_46",
+    "word": "Капернаум",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Матвій",
+    "chapter": 4,
+    "verse": 13,
+    "description": "Місто в Галілеї, центр служіння Ісуса",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_47",
+    "word": "Кенхрея",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 18,
+    "description": "Східна гавань Коринту",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_48",
+    "word": "Кесарія",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 8,
+    "verse": 40,
+    "description": "Приморське місто в Юдеї, резиденція римських правителів",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_49",
+    "word": "Коринт",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 1,
+    "description": "Місто в Греції, важливий християнський центр",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_50",
+    "word": "Лаодикія",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Об'явлення",
+    "chapter": 1,
+    "verse": 11,
+    "description": "Місто у Фригії, одна з семи церков",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Лахіш",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Ісус Навин",
+    "chapter": 10,
+    "verse": 3,
+    "description": "Місто в Юдеї",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_51",
+    "enabled": true
+  },
+  {
+    "id": "city_52",
+    "word": "Лістра",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 14,
+    "verse": 8,
+    "description": "Місто в Лікаонії, яке відвідав Павло",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_53",
+    "word": "Магдала",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 15,
+    "verse": 39,
+    "description": "Місто в Галілеї, звідки походила Марія Магдалина",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_54",
+    "word": "Мальта",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 28,
+    "verse": 1,
+    "description": "Острів у Середземному морі, де Павло зазнав аварії",
+    "tags": [
+      "Новий Заповіт",
+      "Місто",
+      "Острів"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_55",
+    "word": "Махпела",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 23,
+    "verse": 9,
+    "description": "Печера в Хевроні, місце поховання патріархів",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Печера"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_56",
+    "word": "Мемфіс",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Осія",
+    "chapter": 9,
+    "verse": 6,
+    "description": "Давня столиця Єгипту",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Столиця"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_57",
+    "word": "Моав",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 19,
+    "verse": 37,
+    "description": "Країна та місто на схід від Мертвого моря",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_58",
+    "word": "Мілет",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 20,
+    "verse": 15,
+    "description": "Місто в Малій Азії, де Павло прощався з ефеськими старійшинами",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_59",
+    "word": "Мітілена",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 20,
+    "verse": 14,
+    "description": "Головне місто острова Лесбос",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_60",
+    "word": "Міцпа",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Книга Суддів",
+    "chapter": 10,
+    "verse": 17,
+    "description": "Місто в коліні Веніамина, збірне місце Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_61",
+    "word": "Назарет",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Матвій",
+    "chapter": 2,
+    "verse": 23,
+    "description": "Місто в Галілеї, де виріс Ісус",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_62",
+    "word": "Наїн",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Лука",
+    "chapter": 7,
+    "verse": 11,
+    "description": "Місто в Галілеї, де Ісус воскресив сина вдови",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_63",
+    "word": "Нов",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "1 Самуїлова",
+    "chapter": 21,
+    "verse": 1,
+    "description": "Місто священників, де Давид отримав хліби показні",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_64",
+    "word": "Ніневія",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 11,
+    "description": "Столиця Ассирії, велике місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Столиця"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_65",
+    "word": "Олександрія",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 24,
+    "description": "Велике місто в Єгипті, центр освіти",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_66",
+    "word": "Офра",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Книга Суддів",
+    "chapter": 6,
+    "verse": 11,
+    "description": "Місто в коліні Манасії, рідне місто Гедеона",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Патмос",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Об'явлення",
+    "chapter": 1,
+    "verse": 9,
+    "description": "Острів",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "id": "city_67",
+    "enabled": true
+  },
+  {
+    "id": "city_68",
+    "word": "Пергам",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Об'явлення",
+    "chapter": 1,
+    "verse": 11,
+    "description": "Місто в Малій Азії, одна з семи церков",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_69",
+    "word": "Птолемаїда",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 21,
+    "verse": 7,
+    "description": "Приморське місто в Юдеї (Акко)",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_70",
+    "word": "Путеолі",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 28,
+    "verse": 13,
+    "description": "Місто в Італії, де Павло зійшов на берег",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_71",
+    "word": "Рама",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Книга Суддів",
+    "chapter": 4,
+    "verse": 5,
+    "description": "Місто в коліні Веніамина",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_72",
+    "word": "Рамот-Ґілеад",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "1 Царів",
+    "chapter": 4,
+    "verse": 13,
+    "description": "Місто-сховище на схід від Йордану",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_73",
+    "word": "Ресен",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 12,
+    "description": "Місто між Ніневією та Калахом",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_74",
+    "word": "Реховот-Ір",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 11,
+    "description": "Місто в Ассирії",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_75",
+    "word": "Рим",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Дії",
+    "chapter": 28,
+    "verse": 14,
+    "description": "Столиця Римської імперії",
+    "tags": [
+      "Новий Заповіт",
+      "Місто",
+      "Столиця"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_76",
+    "word": "Самарія",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Царів",
+    "chapter": 16,
+    "verse": 24,
+    "description": "Столиця Північного Ізраїльського царства",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Столиця"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_77",
+    "word": "Самос",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 20,
+    "verse": 15,
+    "description": "Острів та місто в Егейському морі",
+    "tags": [
+      "Новий Заповіт",
+      "Місто",
+      "Острів"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Сарди",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Об'явлення",
+    "chapter": 3,
+    "verse": 1,
+    "description": "Місто в Малій Азії",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "id": "city_78",
+    "enabled": true
+  },
+  {
+    "id": "city_79",
+    "word": "Сидон",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 15,
+    "description": "Давнє фінікійське місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Силом",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Ісус Навин",
+    "chapter": 18,
+    "verse": 1,
+    "description": "Місто скинії",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_80",
+    "enabled": true
+  },
+  {
+    "id": "city_81",
+    "word": "Сихем",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 12,
+    "verse": 6,
+    "description": "Місто в центрі Ханаану, між горою Евал та Герізім",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_82",
+    "word": "Содом",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 19,
+    "description": "Місто в долині Сіддім, зруйноване Богом",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_83",
+    "word": "Солунь",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 17,
+    "verse": 1,
+    "description": "Місто в Македонії, важливий християнський центр",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_84",
+    "word": "Тарс",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 9,
+    "verse": 11,
+    "description": "Місто в Кілікії, рідне місто Павла",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_85",
+    "word": "Троада",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 16,
+    "verse": 8,
+    "description": "Приморське місто в Малій Азії",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Тів",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Судді",
+    "chapter": 9,
+    "verse": 50,
+    "description": "Місто",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_86",
+    "enabled": true
+  },
+  {
+    "id": "city_87",
+    "word": "Тір",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Книга Ісуса Навина",
+    "chapter": 19,
+    "verse": 29,
+    "description": "Фінікійське місто-порт",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_88",
+    "word": "Тіятира",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Об'явлення",
+    "chapter": 1,
+    "verse": 11,
+    "description": "Місто в Малій Азії, одна з семи церков",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_89",
+    "word": "Ур",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 11,
+    "verse": 28,
+    "description": "Місто в Халдеї, звідки вийшов Авраам",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_90",
+    "word": "Филипи",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 16,
+    "verse": 12,
+    "description": "Місто в Македонії, перша європейська церква",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_91",
+    "word": "Харан",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 11,
+    "verse": 31,
+    "description": "Місто в Месопотамії, де зупинився Авраам",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_92",
+    "word": "Хеврон",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 13,
+    "verse": 18,
+    "description": "Місто в Юдеї, місце поховання патріархів",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_93",
+    "word": "Хоразін",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 11,
+    "verse": 21,
+    "description": "Місто в Галілеї, де Ісус чинив чуда",
+    "tags": [
+      "Новий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_94",
+    "word": "Цевоїм",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 19,
+    "description": "Місто в долині Сіддім, зруйноване з Содомом",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_95",
+    "word": "Цоан",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Числа",
+    "chapter": 13,
+    "verse": 23,
+    "description": "Місто в Єгипті",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_96",
+    "word": "Цоар",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 13,
+    "verse": 10,
+    "description": "Місто, куди втік Лот із Содому",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Шушан",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Міста",
+    "book": "Естер",
+    "chapter": 1,
+    "verse": 2,
+    "description": "Столиця Персії",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "id": "city_97",
+    "enabled": true
+  },
+  {
+    "id": "city_98",
+    "word": "Шіло",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "1 Самуїлова",
+    "chapter": 1,
+    "verse": 3,
+    "description": "Місто, де стояла Скинія",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_99",
+    "word": "Шінеар",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 10,
+    "description": "Країна та місто (Вавилонія)",
+    "tags": [
+      "Старий Заповіт",
+      "Місто",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "city_100",
+    "word": "Ґат",
+    "aliases": [],
+    "category": "Міста",
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Самуїлова",
+    "chapter": 5,
+    "verse": 8,
+    "description": "Филистимське місто, батьківщина Ґоліята",
+    "tags": [
+      "Старий Заповіт",
+      "Місто"
+    ],
+    "enabled": true
+  }
+]

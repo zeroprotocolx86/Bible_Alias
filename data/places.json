@@ -1,0 +1,952 @@
+[
+  {
+    "id": "place_1",
+    "word": "Єгипет",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 12,
+    "verse": 10,
+    "description": "Давня цивілізація на Нілі",
+    "tags": [
+      "Старий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_2",
+    "word": "Єрусалимський храм",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Царів",
+    "chapter": 6,
+    "verse": 1,
+    "description": "Храм у Єрусалимі, дім Божий",
+    "tags": [
+      "Старий Заповіт",
+      "Храм"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_3",
+    "word": "Ідумея",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Марк",
+    "chapter": 3,
+    "verse": 8,
+    "description": "Грецька назва Едому",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_4",
+    "word": "Ізраїль",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 34,
+    "verse": 7,
+    "description": "Земля обіцяна, названа від Якова",
+    "tags": [
+      "Старий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_5",
+    "word": "Італія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 2,
+    "description": "Країна, столицею якої був Рим",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_6",
+    "word": "Азія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 2,
+    "verse": 9,
+    "description": "Римська провінція в Малій Азії",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_7",
+    "word": "Аммон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 19,
+    "verse": 38,
+    "description": "Країна нащадків Бен-Аммі, на схід від Йордану",
+    "tags": [
+      "Старий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_8",
+    "word": "Аравійська пустеля",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Вихід",
+    "chapter": 4,
+    "verse": 27,
+    "description": "Велика пустеля на південь від Ханаану",
+    "tags": [
+      "Старий Заповіт",
+      "Пустеля"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_9",
+    "word": "Арарат",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 8,
+    "verse": 4,
+    "description": "Гори, де зупинився Ноїв ковчег",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Армагеддон",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Місця",
+    "book": "Об'явлення",
+    "chapter": 16,
+    "verse": 16,
+    "description": "Місце останньої битви",
+    "tags": [
+      "Новий Заповіт",
+      "Місце"
+    ],
+    "id": "place_10",
+    "enabled": true
+  },
+  {
+    "id": "place_11",
+    "word": "Армаґеддон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Об'явлення",
+    "chapter": 16,
+    "verse": 16,
+    "description": "Місце останньої битви, гора Мегіддо",
+    "tags": [
+      "Новий Заповіт",
+      "Місце"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_12",
+    "word": "Вавилон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "4 Царів",
+    "chapter": 17,
+    "verse": 24,
+    "description": "Імперія на території Месопотамії",
+    "tags": [
+      "Старий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_13",
+    "word": "Вавилонська вежа",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 11,
+    "verse": 4,
+    "description": "Вежа, яку будували в Шинеарі",
+    "tags": [
+      "Старий Заповіт",
+      "Вежа"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Велике море",
+    "aliases": [
+      "Середземне море"
+    ],
+    "difficulty": "Про",
+    "category": "Місця",
+    "book": "Числа",
+    "chapter": 34,
+    "verse": 6,
+    "description": "Західний кордон Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Море"
+    ],
+    "id": "place_14",
+    "enabled": true
+  },
+  {
+    "id": "place_15",
+    "word": "Галілейське море",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 4,
+    "verse": 18,
+    "description": "Озеро в Галілеї, де Ісус ходив по воді",
+    "tags": [
+      "Новий Заповіт",
+      "Море"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_16",
+    "word": "Галілея",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 2,
+    "verse": 22,
+    "description": "Північна область Ізраїля",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Гефсиманія",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Місця",
+    "book": "Матвій",
+    "chapter": 26,
+    "verse": 36,
+    "description": "Сад біля Єрусалиму",
+    "tags": [
+      "Новий Заповіт",
+      "Сад"
+    ],
+    "id": "place_17",
+    "enabled": true
+  },
+  {
+    "id": "place_18",
+    "word": "Голгофа",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 27,
+    "verse": 33,
+    "description": "Місце розп'яття Ісуса",
+    "tags": [
+      "Новий Заповіт",
+      "Місце"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_19",
+    "word": "Гіхон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 2,
+    "verse": 13,
+    "description": "Річка в Едемі, що оточує Етіопію",
+    "tags": [
+      "Старий Заповіт",
+      "Річка"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_20",
+    "word": "Евал",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Повторення Закону",
+    "chapter": 11,
+    "verse": 29,
+    "description": "Гора прокляття в Сихемі",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_21",
+    "word": "Евфрат",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 2,
+    "verse": 14,
+    "description": "Велика річка в Месопотамії",
+    "tags": [
+      "Старий Заповіт",
+      "Річка"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Едем",
+    "aliases": [
+      "Едемський сад"
+    ],
+    "difficulty": "Про",
+    "category": "Місця",
+    "book": "Буття",
+    "chapter": 2,
+    "verse": 8,
+    "description": "Сад, створений Богом",
+    "tags": [
+      "Старий Заповіт",
+      "Сад"
+    ],
+    "id": "place_22",
+    "enabled": true
+  },
+  {
+    "id": "place_23",
+    "word": "Едемський сад",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 2,
+    "verse": 8,
+    "description": "Райський сад, створений Богом",
+    "tags": [
+      "Старий Заповіт",
+      "Сад"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_24",
+    "word": "Едом",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 25,
+    "verse": 30,
+    "description": "Країна нащадків Ісава, на південь від Юдеї",
+    "tags": [
+      "Старий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_25",
+    "word": "Золота брама",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 3,
+    "verse": 2,
+    "description": "Брама в Єрусалимському храмі",
+    "tags": [
+      "Новий Заповіт",
+      "Брама"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_26",
+    "word": "Йордан",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 13,
+    "verse": 10,
+    "description": "Головна річка Ізраїля, де Ісус хрестився",
+    "tags": [
+      "Старий Заповіт",
+      "Річка"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_27",
+    "word": "Кедрон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "2 Самуїлова",
+    "chapter": 15,
+    "verse": 23,
+    "description": "Потік між Єрусалимом та Оливною горою",
+    "tags": [
+      "Старий Заповіт",
+      "Річка"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_28",
+    "word": "Кілікія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 6,
+    "verse": 9,
+    "description": "Область у Малій Азії, рідний край Павла",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_29",
+    "word": "Кішон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Книга Суддів",
+    "chapter": 4,
+    "verse": 7,
+    "description": "Річка в Ізраїлі, де Девора перемогла ханаанців",
+    "tags": [
+      "Старий Заповіт",
+      "Річка"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_30",
+    "word": "Ліван",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Повторення Закону",
+    "chapter": 1,
+    "verse": 7,
+    "description": "Гірський хребет на півночі Ханаану",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_31",
+    "word": "Македонія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 16,
+    "verse": 9,
+    "description": "Країна на півночі Греції",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_32",
+    "word": "Меліт",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 28,
+    "verse": 1,
+    "description": "Острів, де Павло зазнав аварії корабля (Мальта)",
+    "tags": [
+      "Новий Заповіт",
+      "Острів"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_33",
+    "word": "Мертве море",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 14,
+    "verse": 3,
+    "description": "Солоне озеро, де були Содом і Гоморра",
+    "tags": [
+      "Старий Заповіт",
+      "Море"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_34",
+    "word": "Моав",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 19,
+    "verse": 37,
+    "description": "Країна нащадків Моава",
+    "tags": [
+      "Старий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_35",
+    "word": "Морія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 22,
+    "verse": 2,
+    "description": "Гора, де Авраам мав принести Ісака в жертву",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_36",
+    "word": "Нево",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Повторення Закону",
+    "chapter": 32,
+    "verse": 49,
+    "description": "Гора, з якої Мойсей побачив Обіцяну землю",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Ніл",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Місця",
+    "book": "Буття",
+    "chapter": 41,
+    "verse": 1,
+    "description": "Річка в Єгипті",
+    "tags": [
+      "Старий Заповіт",
+      "Річка"
+    ],
+    "id": "place_37",
+    "enabled": true
+  },
+  {
+    "id": "place_38",
+    "word": "Оливна",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Захарія",
+    "chapter": 14,
+    "verse": 4,
+    "description": "Гора на сході Єрусалиму, місце вознесіння Ісуса",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Оливна гора",
+    "aliases": [
+      "Єлеонська гора"
+    ],
+    "difficulty": "Про",
+    "category": "Місця",
+    "book": "Захарія",
+    "chapter": 14,
+    "verse": 4,
+    "description": "Гора біля Єрусалиму",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "id": "place_39",
+    "enabled": true
+  },
+  {
+    "id": "place_40",
+    "word": "Памфілія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 2,
+    "verse": 10,
+    "description": "Область у Малій Азії",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_41",
+    "word": "Персія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "2 Хроніки",
+    "chapter": 36,
+    "verse": 20,
+    "description": "Імперія на схід від Вавилону",
+    "tags": [
+      "Старий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_42",
+    "word": "Поле крови",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 1,
+    "verse": 19,
+    "description": "Земля, куплена за срібло Юди, Акелдама",
+    "tags": [
+      "Новий Заповіт",
+      "Місце"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_43",
+    "word": "Пустеля Сур",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Вихід",
+    "chapter": 15,
+    "verse": 22,
+    "description": "Пустеля на заході Синайського півострова",
+    "tags": [
+      "Старий Заповіт",
+      "Пустеля"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_44",
+    "word": "Пустеля Фаран",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Числа",
+    "chapter": 10,
+    "verse": 12,
+    "description": "Пустеля на Синайському півострові",
+    "tags": [
+      "Старий Заповіт",
+      "Пустеля"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_45",
+    "word": "Пісідія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 13,
+    "verse": 14,
+    "description": "Область у Малій Азії",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_46",
+    "word": "Пішон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 2,
+    "verse": 11,
+    "description": "Річка в Едемі, що оточує землю Хавіла",
+    "tags": [
+      "Старий Заповіт",
+      "Річка"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_47",
+    "word": "Самарія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 10,
+    "verse": 5,
+    "description": "Область між Юдеєю та Галілеєю",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_48",
+    "word": "Солоне море",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 14,
+    "verse": 3,
+    "description": "Інша назва Мертвого моря",
+    "tags": [
+      "Старий Заповіт",
+      "Море"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_49",
+    "word": "Соляний стовп",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 19,
+    "verse": 26,
+    "description": "Стовп, у який перетворилася дружина Лота",
+    "tags": [
+      "Старий Заповіт",
+      "Місце"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_50",
+    "word": "Сіон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "2 Самуїлова",
+    "chapter": 5,
+    "verse": 7,
+    "description": "Гора в Єрусалимі, символ Божої присутності",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_51",
+    "word": "Тигр",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 2,
+    "verse": 14,
+    "description": "Річка в Месопотамії",
+    "tags": [
+      "Старий Заповіт",
+      "Річка"
+    ],
+    "enabled": true
+  },
+  {
+    "word": "Ханаан",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Місця",
+    "book": "Буття",
+    "chapter": 12,
+    "verse": 5,
+    "description": "Обіцяна земля",
+    "tags": [
+      "Старий Заповіт",
+      "Країна"
+    ],
+    "id": "place_52",
+    "enabled": true
+  },
+  {
+    "id": "place_53",
+    "word": "Хермон",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Повторення Закону",
+    "chapter": 3,
+    "verse": 8,
+    "description": "Найвища гора в Ізраїлі, на півночі",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_54",
+    "word": "Хорив",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Вихід",
+    "chapter": 3,
+    "verse": 1,
+    "description": "Гора Божа, інша назва Сінаю",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_55",
+    "word": "Червоне море",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Вихід",
+    "chapter": 10,
+    "verse": 19,
+    "description": "Море, яке розступилося перед Ізраїлем",
+    "tags": [
+      "Старий Заповіт",
+      "Море"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_56",
+    "word": "Юдейська пустеля",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 3,
+    "verse": 1,
+    "description": "Пустеля на схід від Єрусалиму",
+    "tags": [
+      "Новий Заповіт",
+      "Пустеля"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_57",
+    "word": "Юдея",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 2,
+    "verse": 1,
+    "description": "Південна область Ізраїля",
+    "tags": [
+      "Новий Заповіт",
+      "Країна"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_58",
+    "word": "Ґефсиманія",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 26,
+    "verse": 36,
+    "description": "Сад біля Єрусалиму, де молився Ісус",
+    "tags": [
+      "Новий Заповіт",
+      "Сад"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "place_59",
+    "word": "Ґілбоа",
+    "aliases": [],
+    "category": "Місця",
+    "difficulty": "Про",
+    "book": "1 Самуїлова",
+    "chapter": 31,
+    "verse": 1,
+    "description": "Гора, де загинув цар Саул",
+    "tags": [
+      "Старий Заповіт",
+      "Гора"
+    ],
+    "enabled": true
+  }
+]

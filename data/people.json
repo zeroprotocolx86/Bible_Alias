@@ -1,0 +1,2903 @@
+[
+  {
+    "word": "Єва",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 3,
+    "verse": 20,
+    "description": "Перша жінка, мати всіх живих",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка",
+      "Створення"
+    ],
+    "category": "Люди",
+    "id": "person_1",
+    "enabled": true
+  },
+  {
+    "word": "Єзавель",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Царів",
+    "chapter": 16,
+    "verse": 31,
+    "description": "Цариця, дружина Ахава",
+    "tags": [
+      "Старий Заповіт",
+      "Цариця",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_2",
+    "enabled": true
+  },
+  {
+    "word": "Єзекія",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "2 Царів",
+    "chapter": 18,
+    "verse": 1,
+    "description": "Цар Юдеї",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_3",
+    "enabled": true
+  },
+  {
+    "word": "Єзекіїл",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Єзекіїл",
+    "chapter": 1,
+    "verse": 3,
+    "description": "Пророк, автор Книги Єзекіїля",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_4",
+    "enabled": true
+  },
+  {
+    "word": "Єлисавета",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Луки",
+    "chapter": 1,
+    "verse": 5,
+    "description": "Мати Івана Хрестителя",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_5",
+    "enabled": true
+  },
+  {
+    "word": "Єлисей",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Царів",
+    "chapter": 19,
+    "verse": 16,
+    "description": "Пророк, наступник Іллі",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_6",
+    "enabled": true
+  },
+  {
+    "word": "Єремія",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Єремія",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Єремії",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_7",
+    "enabled": true
+  },
+  {
+    "word": "Єровоам",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "1 Царів",
+    "chapter": 11,
+    "verse": 26,
+    "description": "Цар Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_8",
+    "enabled": true
+  },
+  {
+    "word": "Єфрем",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 41,
+    "verse": 52,
+    "description": "Син Йосипа, родоначальник коліна",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_9",
+    "enabled": true
+  },
+  {
+    "word": "Єфтай",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Судді",
+    "chapter": 11,
+    "verse": 1,
+    "description": "Суддя Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Суддя"
+    ],
+    "category": "Люди",
+    "id": "person_10",
+    "enabled": true
+  },
+  {
+    "word": "Іван",
+    "aliases": [
+      "Іван Богослов"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 4,
+    "verse": 21,
+    "description": "Апостол, брат Якова, автор Євангелія",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_11",
+    "enabled": true
+  },
+  {
+    "word": "Іван Хреститель",
+    "aliases": [
+      "Іван"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 3,
+    "verse": 1,
+    "description": "Пророк, який хрестив Ісуса",
+    "tags": [
+      "Новий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_12",
+    "enabled": true
+  },
+  {
+    "word": "Ізмаїл",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 16,
+    "verse": 15,
+    "description": "Син Авраама та Агарі",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_13",
+    "enabled": true
+  },
+  {
+    "word": "Ілля",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "1 Царів",
+    "chapter": 17,
+    "verse": 1,
+    "description": "Пророк, взятий на небо в огненній колісниці",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_14",
+    "enabled": true
+  },
+  {
+    "word": "Ірод Антипа",
+    "aliases": [
+      "Ірод"
+    ],
+    "difficulty": "Про",
+    "book": "Луки",
+    "chapter": 3,
+    "verse": 1,
+    "description": "Тетрарх Галілеї",
+    "tags": [
+      "Новий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_15",
+    "enabled": true
+  },
+  {
+    "word": "Ірод Великий",
+    "aliases": [
+      "Ірод"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 2,
+    "verse": 1,
+    "description": "Цар Юдеї, наказав убити немовлят",
+    "tags": [
+      "Новий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_16",
+    "enabled": true
+  },
+  {
+    "word": "Іродіада",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 14,
+    "verse": 3,
+    "description": "Дружина Ірода Антипи",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_17",
+    "enabled": true
+  },
+  {
+    "word": "Ісав",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 25,
+    "verse": 25,
+    "description": "Син Ісака та Ревеки, старший брат Якова",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_18",
+    "enabled": true
+  },
+  {
+    "word": "Ісак",
+    "aliases": [
+      "Ісаак"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 21,
+    "verse": 3,
+    "description": "Син Авраама та Сари",
+    "tags": [
+      "Старий Заповіт",
+      "Патріарх",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_19",
+    "enabled": true
+  },
+  {
+    "word": "Ісая",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Ісая",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Великий пророк Старого Заповіту",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_20",
+    "enabled": true
+  },
+  {
+    "word": "Іссахар",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 30,
+    "verse": 18,
+    "description": "Син Якова та Лії",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_21",
+    "enabled": true
+  },
+  {
+    "word": "Ісус Навин",
+    "aliases": [
+      "Єгошуа"
+    ],
+    "difficulty": "Легко",
+    "book": "Числа",
+    "chapter": 13,
+    "verse": 17,
+    "description": "Наступник Мойсея, вождь Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Вождь"
+    ],
+    "category": "Люди",
+    "id": "person_22",
+    "enabled": true
+  },
+  {
+    "word": "Ісус Христос",
+    "aliases": [
+      "Ісус",
+      "Христос",
+      "Господь",
+      "Син Божий"
+    ],
+    "difficulty": "Легко",
+    "book": "Матвій",
+    "chapter": 1,
+    "verse": 16,
+    "description": "Син Божий, Спаситель світу",
+    "tags": [
+      "Новий Заповіт",
+      "Ісус Христос",
+      "Спаситель"
+    ],
+    "category": "Люди",
+    "id": "person_23",
+    "enabled": true
+  },
+  {
+    "word": "Аарон",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Вихід",
+    "chapter": 4,
+    "verse": 14,
+    "description": "Брат Мойсея, перший первосвященник",
+    "tags": [
+      "Старий Заповіт",
+      "Священник",
+      "Левіт"
+    ],
+    "category": "Люди",
+    "id": "person_24",
+    "enabled": true
+  },
+  {
+    "word": "Авдій",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "1 Царів",
+    "chapter": 18,
+    "verse": 3,
+    "description": "Управитель дому Ахава",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "id": "person_25",
+    "enabled": true
+  },
+  {
+    "word": "Авель",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 4,
+    "verse": 2,
+    "description": "Син Адама та Єви, убитий Каїном",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_26",
+    "enabled": true
+  },
+  {
+    "word": "Авесалом",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "2 Самуїлова",
+    "chapter": 14,
+    "verse": 25,
+    "description": "Син Давида, який повстав проти батька",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_27",
+    "enabled": true
+  },
+  {
+    "word": "Авраам",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 17,
+    "verse": 5,
+    "description": "Батько єврейського народу",
+    "tags": [
+      "Старий Заповіт",
+      "Патріарх",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_28",
+    "enabled": true
+  },
+  {
+    "word": "Авімелех",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Судді",
+    "chapter": 9,
+    "verse": 1,
+    "description": "Син Гедеона, цар Сихему",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_29",
+    "enabled": true
+  },
+  {
+    "word": "Агар",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 16,
+    "verse": 1,
+    "description": "Служниця Сари, мати Ізмаїла",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_30",
+    "enabled": true
+  },
+  {
+    "word": "Адам",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 1,
+    "verse": 26,
+    "description": "Перша людина, створена Богом",
+    "tags": [
+      "Старий Заповіт",
+      "Людина",
+      "Створення"
+    ],
+    "category": "Люди",
+    "id": "person_31",
+    "enabled": true
+  },
+  {
+    "word": "Азарія",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "2 Хроніки",
+    "chapter": 26,
+    "verse": 17,
+    "description": "Священник",
+    "tags": [
+      "Старий Заповіт",
+      "Священник"
+    ],
+    "id": "person_32",
+    "enabled": true
+  },
+  {
+    "word": "Акила",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 2,
+    "description": "Чоловік Прискилли, співробітник Павла",
+    "tags": [
+      "Новий Заповіт",
+      "Учень"
+    ],
+    "category": "Люди",
+    "id": "person_33",
+    "enabled": true
+  },
+  {
+    "word": "Аман",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Естер",
+    "chapter": 3,
+    "verse": 1,
+    "description": "Ворог євреїв при перському дворі",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_34",
+    "enabled": true
+  },
+  {
+    "word": "Амнон",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "2 Самуїлова",
+    "chapter": 3,
+    "verse": 2,
+    "description": "Син Давида",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "id": "person_35",
+    "enabled": true
+  },
+  {
+    "word": "Амос",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Амос",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Амоса",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_36",
+    "enabled": true
+  },
+  {
+    "word": "Ананія",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 5,
+    "verse": 1,
+    "description": "Чоловік Сапфіри, покараний за обман",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_37",
+    "enabled": true
+  },
+  {
+    "word": "Андрій",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 4,
+    "verse": 18,
+    "description": "Апостол, брат Петра",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_38",
+    "enabled": true
+  },
+  {
+    "word": "Анна",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Самуїлова",
+    "chapter": 1,
+    "verse": 2,
+    "description": "Мати Самуїла",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_39",
+    "enabled": true
+  },
+  {
+    "word": "Аод",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Судді",
+    "chapter": 3,
+    "verse": 15,
+    "description": "Суддя Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Суддя"
+    ],
+    "category": "Люди",
+    "id": "person_40",
+    "enabled": true
+  },
+  {
+    "word": "Аполлос",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 24,
+    "description": "Промовець і вчитель з Олександрії",
+    "tags": [
+      "Новий Заповіт",
+      "Учень"
+    ],
+    "category": "Люди",
+    "id": "person_41",
+    "enabled": true
+  },
+  {
+    "word": "Аса",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "1 Царів",
+    "chapter": 15,
+    "verse": 9,
+    "description": "Цар Юдеї",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_42",
+    "enabled": true
+  },
+  {
+    "word": "Асир",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 30,
+    "verse": 13,
+    "description": "Син Якова від Зілпи",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_43",
+    "enabled": true
+  },
+  {
+    "word": "Ахав",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Царів",
+    "chapter": 16,
+    "verse": 29,
+    "description": "Цар Ізраїля, чоловік Єзавелі",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_44",
+    "enabled": true
+  },
+  {
+    "word": "Барак",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Судді",
+    "chapter": 4,
+    "verse": 6,
+    "description": "Воєначальник при Деворі",
+    "tags": [
+      "Старий Заповіт",
+      "Суддя"
+    ],
+    "category": "Люди",
+    "id": "person_45",
+    "enabled": true
+  },
+  {
+    "word": "Вааса",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "1 Царів",
+    "chapter": 15,
+    "verse": 27,
+    "description": "Цар Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_46",
+    "enabled": true
+  },
+  {
+    "word": "Валаам",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Числа",
+    "chapter": 22,
+    "verse": 5,
+    "description": "Пророк, якого найняв Валак",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_47",
+    "enabled": true
+  },
+  {
+    "word": "Валак",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Числа",
+    "chapter": 22,
+    "verse": 2,
+    "description": "Моавський цар",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_48",
+    "enabled": true
+  },
+  {
+    "word": "Валла",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Буття",
+    "chapter": 29,
+    "verse": 29,
+    "description": "Служниця Рахилі",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "id": "person_49",
+    "enabled": true
+  },
+  {
+    "word": "Валтасар",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Даниїл",
+    "chapter": 5,
+    "verse": 1,
+    "description": "Вавилонський цар, син Навуходоносора",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_50",
+    "enabled": true
+  },
+  {
+    "word": "Варнава",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 4,
+    "verse": 36,
+    "description": "Супутник Павла в місійних подорожах",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_51",
+    "enabled": true
+  },
+  {
+    "word": "Варфоломій",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 10,
+    "verse": 3,
+    "description": "Апостол Ісуса Христа",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_52",
+    "enabled": true
+  },
+  {
+    "word": "Варісус",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Дії",
+    "chapter": 13,
+    "verse": 6,
+    "description": "Лжепророк",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "id": "person_53",
+    "enabled": true
+  },
+  {
+    "word": "Веніамин",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 35,
+    "verse": 18,
+    "description": "Молодший син Якова та Рахилі",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_54",
+    "enabled": true
+  },
+  {
+    "word": "Вооз",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Рут",
+    "chapter": 2,
+    "verse": 1,
+    "description": "Чоловік Рут",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "id": "person_55",
+    "enabled": true
+  },
+  {
+    "word": "Вірсавія",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "2 Самуїлова",
+    "chapter": 11,
+    "verse": 3,
+    "description": "Дружина Урії, мати Соломона",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "id": "person_56",
+    "enabled": true
+  },
+  {
+    "word": "Гавриїл",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Луки",
+    "chapter": 1,
+    "verse": 19,
+    "description": "Ангел, який сповістив Марії народження Ісуса",
+    "tags": [
+      "Новий Заповіт",
+      "Ангел"
+    ],
+    "category": "Люди",
+    "id": "person_57",
+    "enabled": true
+  },
+  {
+    "word": "Гад",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 30,
+    "verse": 11,
+    "description": "Син Якова від Зілпи",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_58",
+    "enabled": true
+  },
+  {
+    "word": "Давид",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "Рут",
+    "chapter": 4,
+    "verse": 22,
+    "description": "Цар Ізраїля, автор псалмів",
+    "tags": [
+      "Старий Заповіт",
+      "Цар",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_59",
+    "enabled": true
+  },
+  {
+    "word": "Даліла",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Судді",
+    "chapter": 16,
+    "verse": 4,
+    "description": "Жінка, яка зрадила Самсона",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_60",
+    "enabled": true
+  },
+  {
+    "word": "Дан",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 30,
+    "verse": 6,
+    "description": "Син Якова від Валли",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_61",
+    "enabled": true
+  },
+  {
+    "word": "Даниїл",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Даниїл",
+    "chapter": 1,
+    "verse": 6,
+    "description": "Пророк у вавилонському полоні",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_62",
+    "enabled": true
+  },
+  {
+    "word": "Девора",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Судді",
+    "chapter": 4,
+    "verse": 4,
+    "description": "Пророчиця і суддя Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Суддя",
+      "Жінка",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_63",
+    "enabled": true
+  },
+  {
+    "word": "Діна",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 30,
+    "verse": 21,
+    "description": "Дочка Якова та Лії",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_64",
+    "enabled": true
+  },
+  {
+    "word": "Ездра",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Ездра",
+    "chapter": 7,
+    "verse": 6,
+    "description": "Писар і священник, учитель Закону",
+    "tags": [
+      "Старий Заповіт",
+      "Священник",
+      "Писар"
+    ],
+    "category": "Люди",
+    "id": "person_65",
+    "enabled": true
+  },
+  {
+    "word": "Енох",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 5,
+    "verse": 24,
+    "description": "Праведник, взятий Богом на небо",
+    "tags": [
+      "Старий Заповіт",
+      "Людина",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_66",
+    "enabled": true
+  },
+  {
+    "word": "Естер",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Естер",
+    "chapter": 2,
+    "verse": 7,
+    "description": "Цариця Персії, врятувала євреїв",
+    "tags": [
+      "Старий Заповіт",
+      "Цариця",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_67",
+    "enabled": true
+  },
+  {
+    "word": "Завулон",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 30,
+    "verse": 20,
+    "description": "Син Якова та Лії",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_68",
+    "enabled": true
+  },
+  {
+    "word": "Закхей",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Луки",
+    "chapter": 19,
+    "verse": 2,
+    "description": "Митник, який прийняв Ісуса",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_69",
+    "enabled": true
+  },
+  {
+    "word": "Захарія",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Захарія",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Захарії",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_70",
+    "enabled": true
+  },
+  {
+    "word": "Зоровавель",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Ездра",
+    "chapter": 2,
+    "verse": 2,
+    "description": "Вождь",
+    "tags": [
+      "Старий Заповіт",
+      "Вождь"
+    ],
+    "id": "person_71",
+    "enabled": true
+  },
+  {
+    "word": "Зілпа",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Буття",
+    "chapter": 29,
+    "verse": 24,
+    "description": "Служниця Лії",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "id": "person_72",
+    "enabled": true
+  },
+  {
+    "word": "Йоав",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "2 Самуїлова",
+    "chapter": 2,
+    "verse": 13,
+    "description": "Воєначальник царя Давида",
+    "tags": [
+      "Старий Заповіт",
+      "Воїн"
+    ],
+    "category": "Люди",
+    "id": "person_73",
+    "enabled": true
+  },
+  {
+    "word": "Йоаш",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "2 Царів",
+    "chapter": 11,
+    "verse": 2,
+    "description": "Цар Юдеї",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_74",
+    "enabled": true
+  },
+  {
+    "word": "Йов",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Йов",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Праведник, який зазнав великих страждань",
+    "tags": [
+      "Старий Заповіт",
+      "Людина",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_75",
+    "enabled": true
+  },
+  {
+    "word": "Йона",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Йона",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, проковтнутий великою рибою",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_76",
+    "enabled": true
+  },
+  {
+    "word": "Йонатан",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "1 Самуїлова",
+    "chapter": 13,
+    "verse": 2,
+    "description": "Син Саула, друг Давида",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_77",
+    "enabled": true
+  },
+  {
+    "word": "Йосафат",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "1 Царів",
+    "chapter": 22,
+    "verse": 41,
+    "description": "Цар Юдеї",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_78",
+    "enabled": true
+  },
+  {
+    "word": "Йосип",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 30,
+    "verse": 24,
+    "description": "Син Якова, проданий у Єгипет",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_79",
+    "enabled": true
+  },
+  {
+    "word": "Йосип Ариматейський",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 27,
+    "verse": 57,
+    "description": "Член ради, який поховав Ісуса",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_80",
+    "enabled": true
+  },
+  {
+    "word": "Йосія",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "2 Царів",
+    "chapter": 22,
+    "verse": 1,
+    "description": "Цар Юдеї",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_81",
+    "enabled": true
+  },
+  {
+    "word": "Йотам",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Судді",
+    "chapter": 9,
+    "verse": 5,
+    "description": "Син Гедеона",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "id": "person_82",
+    "enabled": true
+  },
+  {
+    "word": "Йоіл",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Йоіл",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Йоіла",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_83",
+    "enabled": true
+  },
+  {
+    "word": "Кайяфа",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 26,
+    "verse": 57,
+    "description": "Первосвященник на суді над Ісусом",
+    "tags": [
+      "Новий Заповіт",
+      "Первосвященник"
+    ],
+    "category": "Люди",
+    "id": "person_84",
+    "enabled": true
+  },
+  {
+    "word": "Каїн",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 4,
+    "verse": 1,
+    "description": "Син Адама та Єви, убив Авеля",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_85",
+    "enabled": true
+  },
+  {
+    "word": "Кир",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Ездра",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Перський цар, дозволив євреям повернутись",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_86",
+    "enabled": true
+  },
+  {
+    "word": "Клавдія",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "2 Тимофія",
+    "chapter": 4,
+    "verse": 21,
+    "description": "Християнка",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "id": "person_87",
+    "enabled": true
+  },
+  {
+    "word": "Клеопа",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Луки",
+    "chapter": 24,
+    "verse": 18,
+    "description": "Учень на дорозі до Емауса",
+    "tags": [
+      "Новий Заповіт",
+      "Учень"
+    ],
+    "id": "person_88",
+    "enabled": true
+  },
+  {
+    "word": "Корнелій",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 10,
+    "verse": 1,
+    "description": "Римський сотник, навернений Петром",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_89",
+    "enabled": true
+  },
+  {
+    "word": "Корнилій",
+    "aliases": [
+      "Корнелій"
+    ],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Дії",
+    "chapter": 10,
+    "verse": 1,
+    "description": "Римський сотник",
+    "tags": [
+      "Новий Заповіт",
+      "Людина",
+      "Віра"
+    ],
+    "id": "person_90",
+    "enabled": true
+  },
+  {
+    "word": "Лаван",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 24,
+    "verse": 29,
+    "description": "Брат Ревеки, батько Рахилі та Лії",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_91",
+    "enabled": true
+  },
+  {
+    "word": "Лазар",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Івана",
+    "chapter": 11,
+    "verse": 1,
+    "description": "Брат Марії та Марти, воскреслий з мертвих",
+    "tags": [
+      "Новий Заповіт",
+      "Людина",
+      "Чудо"
+    ],
+    "category": "Люди",
+    "id": "person_92",
+    "enabled": true
+  },
+  {
+    "word": "Лот",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 13,
+    "verse": 5,
+    "description": "Племінник Авраама",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_93",
+    "enabled": true
+  },
+  {
+    "word": "Лука",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Луки",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Автор Євангелія від Луки та Дій Апостолів",
+    "tags": [
+      "Новий Заповіт",
+      "Євангеліст"
+    ],
+    "category": "Люди",
+    "id": "person_94",
+    "enabled": true
+  },
+  {
+    "word": "Лідія",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Дії",
+    "chapter": 16,
+    "verse": 14,
+    "description": "Продавець багряниці",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "id": "person_95",
+    "enabled": true
+  },
+  {
+    "word": "Лія",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 29,
+    "verse": 23,
+    "description": "Старша дочка Лавана, дружина Якова",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_96",
+    "enabled": true
+  },
+  {
+    "word": "Малахія",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Малахія",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Малахії",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_97",
+    "enabled": true
+  },
+  {
+    "word": "Малх",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Івана",
+    "chapter": 18,
+    "verse": 10,
+    "description": "Слуга первосвященника",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "id": "person_98",
+    "enabled": true
+  },
+  {
+    "word": "Манасія",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 41,
+    "verse": 51,
+    "description": "Син Йосипа, родоначальник коліна",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_99",
+    "enabled": true
+  },
+  {
+    "word": "Марк",
+    "aliases": [
+      "Іван Марко"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 12,
+    "verse": 12,
+    "description": "Автор Євангелія від Марка",
+    "tags": [
+      "Новий Заповіт",
+      "Євангеліст"
+    ],
+    "category": "Люди",
+    "id": "person_100",
+    "enabled": true
+  },
+  {
+    "word": "Марта",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Луки",
+    "chapter": 10,
+    "verse": 38,
+    "description": "Сестра Марії та Лазаря",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_101",
+    "enabled": true
+  },
+  {
+    "word": "Маріам",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Вихід",
+    "chapter": 15,
+    "verse": 20,
+    "description": "Сестра Мойсея та Аарона, пророчиця",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_102",
+    "enabled": true
+  },
+  {
+    "word": "Марія",
+    "aliases": [
+      "Марія Діва Марія"
+    ],
+    "difficulty": "Легко",
+    "book": "Матвій",
+    "chapter": 1,
+    "verse": 18,
+    "description": "Мати Ісуса Христа",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка",
+      "Марія"
+    ],
+    "category": "Люди",
+    "id": "person_103",
+    "enabled": true
+  },
+  {
+    "word": "Марія Магдалина",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 27,
+    "verse": 56,
+    "description": "Учениця Ісуса, перша свідка воскресіння",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка",
+      "Учениця"
+    ],
+    "category": "Люди",
+    "id": "person_104",
+    "enabled": true
+  },
+  {
+    "word": "Матвій",
+    "aliases": [
+      "Леві"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 9,
+    "verse": 9,
+    "description": "Апостол, автор Євангелія від Матвія",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_105",
+    "enabled": true
+  },
+  {
+    "word": "Матій",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 1,
+    "verse": 26,
+    "description": "Апостол, обраний замість Юди Іскаріота",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_106",
+    "enabled": true
+  },
+  {
+    "word": "Мелхола",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "1 Самуїлова",
+    "chapter": 18,
+    "verse": 27,
+    "description": "Дочка Саула, дружина Давида",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_107",
+    "enabled": true
+  },
+  {
+    "word": "Мелхіседек",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 14,
+    "verse": 18,
+    "description": "Цар Салиму, священник Бога Всевишнього",
+    "tags": [
+      "Старий Заповіт",
+      "Цар",
+      "Священник"
+    ],
+    "category": "Люди",
+    "id": "person_108",
+    "enabled": true
+  },
+  {
+    "word": "Михаїл",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Юди",
+    "chapter": 1,
+    "verse": 9,
+    "description": "Архангел, вождь небесного війська",
+    "tags": [
+      "Новий Заповіт",
+      "Ангел"
+    ],
+    "category": "Люди",
+    "id": "person_109",
+    "enabled": true
+  },
+  {
+    "word": "Михей",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Михей",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Михея",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_110",
+    "enabled": true
+  },
+  {
+    "word": "Мойсей",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "Вихід",
+    "chapter": 2,
+    "verse": 10,
+    "description": "Пророк, вивів Ізраїль з Єгипту",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк",
+      "Закон"
+    ],
+    "category": "Люди",
+    "id": "person_111",
+    "enabled": true
+  },
+  {
+    "word": "Мордехай",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Естер",
+    "chapter": 2,
+    "verse": 5,
+    "description": "Двоюрідний брат Естер",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_112",
+    "enabled": true
+  },
+  {
+    "word": "Навал",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "1 Самуїлова",
+    "chapter": 25,
+    "verse": 3,
+    "description": "Чоловік Авігеї",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "id": "person_113",
+    "enabled": true
+  },
+  {
+    "word": "Навуходоносор",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Даниїл",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Вавилонський цар, зруйнував Єрусалим",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_114",
+    "enabled": true
+  },
+  {
+    "word": "Натан",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "2 Самуїлова",
+    "chapter": 7,
+    "verse": 2,
+    "description": "Пророк за часів Давида",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "id": "person_115",
+    "enabled": true
+  },
+  {
+    "word": "Наум",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Наум",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Наума",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_116",
+    "enabled": true
+  },
+  {
+    "word": "Нефталим",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 30,
+    "verse": 8,
+    "description": "Син Якова від Валли",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_117",
+    "enabled": true
+  },
+  {
+    "word": "Неємія",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Неємія",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Відбудував стіни Єрусалима",
+    "tags": [
+      "Старий Заповіт",
+      "Вождь"
+    ],
+    "category": "Люди",
+    "id": "person_118",
+    "enabled": true
+  },
+  {
+    "word": "Никодим",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Івана",
+    "chapter": 3,
+    "verse": 1,
+    "description": "Фарисей, таємний учень Ісуса",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_119",
+    "enabled": true
+  },
+  {
+    "word": "Ноемі",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Рут",
+    "chapter": 1,
+    "verse": 2,
+    "description": "Свекруха Рут",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_120",
+    "enabled": true
+  },
+  {
+    "word": "Ной",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 6,
+    "verse": 9,
+    "description": "Праведник, збудував ковчег",
+    "tags": [
+      "Старий Заповіт",
+      "Людина",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_121",
+    "enabled": true
+  },
+  {
+    "word": "Овдій",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Овдій",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Овдія",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_122",
+    "enabled": true
+  },
+  {
+    "word": "Ог",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Числа",
+    "chapter": 21,
+    "verse": 33,
+    "description": "Цар Башану",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_123",
+    "enabled": true
+  },
+  {
+    "word": "Огій",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Огій",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Огія",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_124",
+    "enabled": true
+  },
+  {
+    "word": "Омрі",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "1 Царів",
+    "chapter": 16,
+    "verse": 23,
+    "description": "Цар Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "id": "person_125",
+    "enabled": true
+  },
+  {
+    "word": "Онисим",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Филимону",
+    "chapter": 1,
+    "verse": 10,
+    "description": "Раб Филимона, навернений Павлом",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_126",
+    "enabled": true
+  },
+  {
+    "word": "Орпа",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Рут",
+    "chapter": 1,
+    "verse": 4,
+    "description": "Невістка Ноемі",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "id": "person_127",
+    "enabled": true
+  },
+  {
+    "word": "Осія",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Осія",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Осії",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_128",
+    "enabled": true
+  },
+  {
+    "word": "Павло",
+    "aliases": [
+      "Савл"
+    ],
+    "difficulty": "Легко",
+    "book": "Дії",
+    "chapter": 9,
+    "verse": 4,
+    "description": "Апостол язичників, автор послань",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_129",
+    "enabled": true
+  },
+  {
+    "word": "Петро",
+    "aliases": [
+      "Симон Петро",
+      "Кифа"
+    ],
+    "difficulty": "Легко",
+    "book": "Матвій",
+    "chapter": 4,
+    "verse": 18,
+    "description": "Апостол, перший з дванадцяти",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_130",
+    "enabled": true
+  },
+  {
+    "word": "Пилип",
+    "aliases": [
+      "Филип"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 8,
+    "verse": 5,
+    "description": "Євангеліст і диякон",
+    "tags": [
+      "Новий Заповіт",
+      "Євангеліст"
+    ],
+    "category": "Люди",
+    "id": "person_131",
+    "enabled": true
+  },
+  {
+    "word": "Понтій Пілат",
+    "aliases": [
+      "Пілат"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 27,
+    "verse": 2,
+    "description": "Римський прокуратор Юдеї",
+    "tags": [
+      "Новий Заповіт",
+      "Правитель"
+    ],
+    "category": "Люди",
+    "id": "person_132",
+    "enabled": true
+  },
+  {
+    "word": "Прискилла",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 18,
+    "verse": 2,
+    "description": "Дружина Акили, співробітниця Павла",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_133",
+    "enabled": true
+  },
+  {
+    "word": "Рахав",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Ісус Навин",
+    "chapter": 2,
+    "verse": 1,
+    "description": "Жінка з Єрихону, сховала розвідників",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_134",
+    "enabled": true
+  },
+  {
+    "word": "Рахиль",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 29,
+    "verse": 28,
+    "description": "Дружина Якова, мати Йосипа",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_135",
+    "enabled": true
+  },
+  {
+    "word": "Ревека",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 24,
+    "verse": 15,
+    "description": "Дружина Ісака, мати Якова та Ісава",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_136",
+    "enabled": true
+  },
+  {
+    "word": "Рода",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Дії",
+    "chapter": 12,
+    "verse": 13,
+    "description": "Служниця",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "id": "person_137",
+    "enabled": true
+  },
+  {
+    "word": "Рувим",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 29,
+    "verse": 32,
+    "description": "Син Якова та Лії",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_138",
+    "enabled": true
+  },
+  {
+    "word": "Рут",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Рут",
+    "chapter": 1,
+    "verse": 4,
+    "description": "Моавійська жінка, прабабуся Давида",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_139",
+    "enabled": true
+  },
+  {
+    "word": "Руф",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Римлян",
+    "chapter": 16,
+    "verse": 13,
+    "description": "Християнин у Римі",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "id": "person_140",
+    "enabled": true
+  },
+  {
+    "word": "Савл",
+    "aliases": [
+      "Павло"
+    ],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Дії",
+    "chapter": 7,
+    "verse": 58,
+    "description": "Єврейське ім'я апостола Павла",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "id": "person_141",
+    "enabled": true
+  },
+  {
+    "word": "Саломія",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 14,
+    "verse": 6,
+    "description": "Дочка Іродіади, просила голову Івана",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_142",
+    "enabled": true
+  },
+  {
+    "word": "Самсон",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Судді",
+    "chapter": 13,
+    "verse": 24,
+    "description": "Суддя Ізраїля, відомий надзвичайною силою",
+    "tags": [
+      "Старий Заповіт",
+      "Суддя"
+    ],
+    "category": "Люди",
+    "id": "person_143",
+    "enabled": true
+  },
+  {
+    "word": "Самуїл",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Самуїлова",
+    "chapter": 1,
+    "verse": 20,
+    "description": "Пророк і останній суддя Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк",
+      "Суддя"
+    ],
+    "category": "Люди",
+    "id": "person_144",
+    "enabled": true
+  },
+  {
+    "word": "Сапфіра",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 5,
+    "verse": 1,
+    "description": "Дружина Ананії",
+    "tags": [
+      "Новий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_145",
+    "enabled": true
+  },
+  {
+    "word": "Сара",
+    "aliases": [
+      "Сарра"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Буття",
+    "chapter": 17,
+    "verse": 15,
+    "description": "Дружина Авраама, мати Ісака",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_146",
+    "enabled": true
+  },
+  {
+    "word": "Сатана",
+    "aliases": [
+      "Диявол"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 4,
+    "verse": 10,
+    "description": "Противник Бога, спокусник",
+    "tags": [
+      "Новий Заповіт",
+      "Демон"
+    ],
+    "category": "Люди",
+    "id": "person_147",
+    "enabled": true
+  },
+  {
+    "word": "Саул",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "1 Самуїлова",
+    "chapter": 9,
+    "verse": 2,
+    "description": "Перший цар Ізраїля",
+    "tags": [
+      "Старий Заповіт",
+      "Цар"
+    ],
+    "category": "Люди",
+    "id": "person_148",
+    "enabled": true
+  },
+  {
+    "word": "Секунд",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Дії",
+    "chapter": 20,
+    "verse": 4,
+    "description": "Супутник Павла",
+    "tags": [
+      "Новий Заповіт",
+      "Учень"
+    ],
+    "id": "person_149",
+    "enabled": true
+  },
+  {
+    "word": "Сила",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Дії",
+    "chapter": 15,
+    "verse": 22,
+    "description": "Супутник Павла",
+    "tags": [
+      "Новий Заповіт",
+      "Учень"
+    ],
+    "category": "Люди",
+    "id": "person_150",
+    "enabled": true
+  },
+  {
+    "word": "Сим",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 21,
+    "description": "Син Ноя, предок семітів",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_151",
+    "enabled": true
+  },
+  {
+    "word": "Симеон",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 29,
+    "verse": 33,
+    "description": "Син Якова та Лії",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_152",
+    "enabled": true
+  },
+  {
+    "word": "Симон Зилот",
+    "aliases": [
+      "Симон Кананіт"
+    ],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 10,
+    "verse": 4,
+    "description": "Апостол Ісуса Христа",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_153",
+    "enabled": true
+  },
+  {
+    "word": "Симон Кириней",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 27,
+    "verse": 32,
+    "description": "Чоловік, який ніс хрест Ісуса",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_154",
+    "enabled": true
+  },
+  {
+    "word": "Сиса",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Судді",
+    "chapter": 4,
+    "verse": 2,
+    "description": "Воєначальник ханаанського царя",
+    "tags": [
+      "Старий Заповіт",
+      "Воїн"
+    ],
+    "category": "Люди",
+    "id": "person_155",
+    "enabled": true
+  },
+  {
+    "word": "Сит",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 4,
+    "verse": 25,
+    "description": "Третій син Адама та Єви",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_156",
+    "enabled": true
+  },
+  {
+    "word": "Соломон",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "2 Самуїлова",
+    "chapter": 12,
+    "verse": 24,
+    "description": "Цар Ізраїля, збудував храм у Єрусалимі",
+    "tags": [
+      "Старий Заповіт",
+      "Цар",
+      "Мудрість"
+    ],
+    "category": "Люди",
+    "id": "person_157",
+    "enabled": true
+  },
+  {
+    "word": "Сотник",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 8,
+    "verse": 5,
+    "description": "Римський сотник з великою вірою",
+    "tags": [
+      "Новий Заповіт",
+      "Воїн",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_158",
+    "enabled": true
+  },
+  {
+    "word": "Софонія",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Софонія",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Пророк, автор Книги Софонії",
+    "tags": [
+      "Старий Заповіт",
+      "Пророк"
+    ],
+    "category": "Люди",
+    "id": "person_159",
+    "enabled": true
+  },
+  {
+    "word": "Степан",
+    "aliases": [
+      "Стефан"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 6,
+    "verse": 5,
+    "description": "Перший християнський мученик",
+    "tags": [
+      "Новий Заповіт",
+      "Мученик"
+    ],
+    "category": "Люди",
+    "id": "person_160",
+    "enabled": true
+  },
+  {
+    "word": "Тертій",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Римлян",
+    "chapter": 16,
+    "verse": 22,
+    "description": "Писар послання до Римлян",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "id": "person_161",
+    "enabled": true
+  },
+  {
+    "word": "Тимофій",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Дії",
+    "chapter": 16,
+    "verse": 1,
+    "description": "Супутник Павла, єпископ",
+    "tags": [
+      "Новий Заповіт",
+      "Учень"
+    ],
+    "category": "Люди",
+    "id": "person_162",
+    "enabled": true
+  },
+  {
+    "word": "Тит",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Тита",
+    "chapter": 1,
+    "verse": 4,
+    "description": "Супутник Павла, єпископ Криту",
+    "tags": [
+      "Новий Заповіт",
+      "Учень"
+    ],
+    "category": "Люди",
+    "id": "person_163",
+    "enabled": true
+  },
+  {
+    "word": "Тома",
+    "aliases": [
+      "Хома",
+      "Фома"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 10,
+    "verse": 3,
+    "description": "Апостол, названий Близнюком",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_164",
+    "enabled": true
+  },
+  {
+    "word": "Фаддей",
+    "aliases": [
+      "Юда Тадей"
+    ],
+    "difficulty": "Про",
+    "book": "Матвій",
+    "chapter": 10,
+    "verse": 3,
+    "description": "Апостол, брат Якова",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_165",
+    "enabled": true
+  },
+  {
+    "word": "Фамна",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 38,
+    "verse": 6,
+    "description": "Дружина Іра, невістка Юди",
+    "tags": [
+      "Старий Заповіт",
+      "Жінка"
+    ],
+    "category": "Люди",
+    "id": "person_166",
+    "enabled": true
+  },
+  {
+    "word": "Филимон",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Филимону",
+    "chapter": 1,
+    "verse": 1,
+    "description": "Християнин з Колос",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_167",
+    "enabled": true
+  },
+  {
+    "word": "Филип",
+    "aliases": [],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Матвій",
+    "chapter": 10,
+    "verse": 3,
+    "description": "Апостол Ісуса Христа",
+    "tags": [
+      "Новий Заповіт",
+      "Апостол"
+    ],
+    "category": "Люди",
+    "id": "person_168",
+    "enabled": true
+  },
+  {
+    "word": "Фортунат",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "1 Коринтян",
+    "chapter": 16,
+    "verse": 17,
+    "description": "Християнин з Коринту",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "id": "person_169",
+    "enabled": true
+  },
+  {
+    "word": "Халев",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Числа",
+    "chapter": 13,
+    "verse": 7,
+    "description": "Розвідник, який увійшов у Ханаан",
+    "tags": [
+      "Старий Заповіт",
+      "Людина",
+      "Віра"
+    ],
+    "category": "Люди",
+    "id": "person_170",
+    "enabled": true
+  },
+  {
+    "word": "Хам",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 6,
+    "description": "Син Ноя, предок хамітів",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_171",
+    "enabled": true
+  },
+  {
+    "word": "Юда",
+    "aliases": [],
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 29,
+    "verse": 35,
+    "description": "Син Якова, родоначальник коліна",
+    "tags": [
+      "Старий Заповіт",
+      "Людина",
+      "Ізраїль"
+    ],
+    "category": "Люди",
+    "id": "person_172",
+    "enabled": true
+  },
+  {
+    "word": "Юст",
+    "aliases": [],
+    "difficulty": "Про",
+    "category": "Люди",
+    "book": "Дії",
+    "chapter": 1,
+    "verse": 23,
+    "description": "Кандидат на місце Юди",
+    "tags": [
+      "Новий Заповіт",
+      "Людина"
+    ],
+    "id": "person_173",
+    "enabled": true
+  },
+  {
+    "word": "Яків",
+    "aliases": [
+      "Ізраїль"
+    ],
+    "difficulty": "Легко",
+    "book": "Буття",
+    "chapter": 32,
+    "verse": 28,
+    "description": "Син Ісака, родоначальник 12 колін",
+    "tags": [
+      "Старий Заповіт",
+      "Патріарх",
+      "Ізраїль"
+    ],
+    "category": "Люди",
+    "id": "person_174",
+    "enabled": true
+  },
+  {
+    "word": "Яфет",
+    "aliases": [],
+    "difficulty": "Про",
+    "book": "Буття",
+    "chapter": 10,
+    "verse": 2,
+    "description": "Син Ноя, предок яфетидів",
+    "tags": [
+      "Старий Заповіт",
+      "Людина"
+    ],
+    "category": "Люди",
+    "id": "person_175",
+    "enabled": true
+  },
+  {
+    "word": "Ґедеон",
+    "aliases": [
+      "Гедеон"
+    ],
+    "difficulty": "Потрібно напрягтися",
+    "book": "Судді",
+    "chapter": 6,
+    "verse": 11,
+    "description": "Суддя Ізраїля, переміг мадіянітян",
+    "tags": [
+      "Старий Заповіт",
+      "Суддя"
+    ],
+    "category": "Люди",
+    "id": "person_176",
+    "enabled": true
+  }
+]

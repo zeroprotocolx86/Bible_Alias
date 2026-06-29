@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="uk" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Біблійний Аліас</title>
+  <meta name="description" content="Біблійний Аліас — гра в слова на біблійну тематику">
+  <link rel="icon" type="image/png" href="assets/icons/icon.png">
+  <link rel="apple-touch-icon" href="assets/icons/icon.png">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Noto+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+  <div id="app">
+    <!-- Loading Screen -->
+    <div id="screen-loading" class="screen active">
+      <div class="loading-content">
+        <div class="logo-icon">
+          <span class="logo-bg"><img src="assets/icons/icon.png" alt="Біблійний Аліас" width="80"></span>
+        </div>
+        <h1 class="loading-title">Біблійний Аліас</h1>
+        <div class="loading-spinner"></div>
+        <p class="loading-text" id="loading-text">Завантаження слів...</p>
+      </div>
+    </div>
+
+    <!-- Main Menu Screen -->
+    <div id="screen-menu" class="screen">
+      <div class="menu-header">
+        <div class="logo-icon large">
+          <span class="logo-bg"><img src="assets/icons/icon.png" alt="Біблійний Аліас" width="64"></span>
+        </div>
+        <h1 class="menu-title">Біблійний Аліас</h1>
+        <p class="menu-subtitle">Поясни слова своїй команді</p>
+      </div>
+      <div class="menu-buttons">
+        <button class="btn btn-primary btn-large" onclick="App.showScreen('setup')" id="btn-start-game">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5,3 19,12 5,21"/></svg>
+          <span data-i18n="start_game">Почати гру</span>
+        </button>
+        <button class="btn btn-secondary" onclick="App.showScreen('categories')" id="btn-categories">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h6v6H4zm10 0h6v6h-6zM4 14h6v6H4zm10 0h6v6h-6z"/></svg>
+          <span data-i18n="categories">Категорії</span>
+        </button>
+        <button class="btn btn-secondary" onclick="App.showScreen('settings')" id="btn-settings">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+          <span data-i18n="settings">Налаштування</span>
+        </button>
+        <button class="btn btn-secondary" onclick="App.showScreen('rules')" id="btn-rules">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/><path d="M8 7h8M8 11h6"/></svg>
+          <span data-i18n="rules">Правила</span>
+        </button>
+        <button class="btn btn-secondary" onclick="App.showScreen('about')" id="btn-about">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
+          <span data-i18n="about">Про гру</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Game Setup Screen -->
+    <div id="screen-setup" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" onclick="App.showScreen('menu')">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </button>
+        <h2 data-i18n="game_setup">Налаштування гри</h2>
+      </div>
+      <div class="setup-scroll">
+        <div class="setup-section">
+          <label class="setup-label" data-i18n="teams">Команди</label>
+          <div class="team-list" id="team-list">
+            <div class="team-input-row">
+              <input type="text" class="team-input" id="team-name-0" placeholder="Команда 1" value="Команда 1" maxlength="20">
+              <button class="btn-remove-team" onclick="App.removeTeam(0)" style="display:none">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+              </button>
+            </div>
+            <div class="team-input-row">
+              <input type="text" class="team-input" id="team-name-1" placeholder="Команда 2" value="Команда 2" maxlength="20">
+              <button class="btn-remove-team" onclick="App.removeTeam(1)" style="display:none">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+              </button>
+            </div>
+          </div>
+          <button class="btn btn-small btn-outline" onclick="App.addTeam()" id="btn-add-team">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg>
+            <span data-i18n="add_team">Додати команду</span>
+          </button>
+        </div>
+
+        <div class="setup-section">
+          <label class="setup-label" data-i18n="rounds">Кількість раундів</label>
+          <div class="stepper" id="rounds-stepper">
+            <button class="stepper-btn" onclick="App.adjustSetting('rounds', -1)">−</button>
+            <span class="stepper-value" id="rounds-value">3</span>
+            <button class="stepper-btn" onclick="App.adjustSetting('rounds', 1)">+</button>
+          </div>
+        </div>
+
+        <div class="setup-section">
+          <label class="setup-label" data-i18n="round_duration">Час раунду (сек)</label>
+          <div class="stepper" id="duration-stepper">
+            <button class="stepper-btn" onclick="App.adjustSetting('duration', -5)">−</button>
+            <span class="stepper-value" id="duration-value">60</span>
+            <button class="stepper-btn" onclick="App.adjustSetting('duration', 5)">+</button>
+          </div>
+        </div>
+
+        <div class="setup-section">
+          <label class="setup-label" data-i18n="points_correct">Бали за вірну відповідь</label>
+          <div class="stepper" id="points-correct-stepper">
+            <button class="stepper-btn" onclick="App.adjustSetting('pointsCorrect', -1)">−</button>
+            <span class="stepper-value" id="pointsCorrect-value">1</span>
+            <button class="stepper-btn" onclick="App.adjustSetting('pointsCorrect', 1)">+</button>
+          </div>
+        </div>
+
+        <div class="setup-section">
+          <label class="setup-label" data-i18n="points_skip">Штраф за пропуск</label>
+          <div class="stepper" id="points-skip-stepper">
+            <button class="stepper-btn" onclick="App.adjustSetting('pointsSkip', -1)">−</button>
+            <span class="stepper-value" id="pointsSkip-value">0</span>
+            <button class="stepper-btn" onclick="App.adjustSetting('pointsSkip', 1)">+</button>
+          </div>
+        </div>
+
+        <div class="setup-section">
+          <label class="setup-label" data-i18n="difficulty">Складність</label>
+          <div class="difficulty-selector" id="difficulty-selector">
+            <button class="difficulty-btn active" data-value="all" onclick="App.selectDifficulty('all')">
+              <span data-i18n="all">Всі</span>
+            </button>
+            <button class="difficulty-btn" data-value="easy" onclick="App.selectDifficulty('easy')">
+              <span data-i18n="easy">Легко</span>
+            </button>
+            <button class="difficulty-btn" data-value="medium" onclick="App.selectDifficulty('medium')">
+              <span data-i18n="medium">Про</span>
+            </button>
+            <button class="difficulty-btn" data-value="hard" onclick="App.selectDifficulty('hard')">
+              <span data-i18n="hard">Складно</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="setup-section">
+          <label class="setup-label" data-i18n="categories_select">Категорії слів</label>
+          <div class="category-selector" id="category-selector">
+            <!-- populated by JS -->
+          </div>
+        </div>
+      </div>
+      <div class="setup-footer">
+        <button class="btn btn-primary btn-large" onclick="App.startGame()" id="btn-start">
+          <span data-i18n="start">Розпочати гру!</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Gameplay Screen -->
+    <div id="screen-game" class="screen">
+      <div class="game-header">
+        <div class="game-round-info">
+          <span data-i18n="round">Раунд</span> <span id="game-round">1</span>/<span id="game-rounds-total">3</span>
+        </div>
+        <div class="game-team-info">
+          <span id="game-team-name">Команда 1</span>
+        </div>
+        <div class="game-timer" id="game-timer">
+          <svg class="timer-ring" viewBox="0 0 100 100">
+            <circle cx="50" cy="50" r="45" class="timer-bg"/>
+            <circle cx="50" cy="50" r="45" class="timer-progress" id="timer-progress"/>
+          </svg>
+          <span class="timer-text" id="timer-text">60</span>
+        </div>
+      </div>
+      <div class="game-score-row">
+        <div class="score-item correct">
+          <span class="score-count" id="game-correct-count">0</span>
+          <span class="score-label" data-i18n="correct">Вгадано</span>
+        </div>
+        <div class="score-item skipped">
+          <span class="score-count" id="game-skipped-count">0</span>
+          <span class="score-label" data-i18n="skipped">Пропущено</span>
+        </div>
+      </div>
+      <div class="game-card-area" id="card-area">
+        <div class="word-card" id="word-card">
+          <div class="card-word" id="card-word">Слово</div>
+        </div>
+        <div class="swipe-hints">
+          <div class="swipe-hint hint-up">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+            <span data-i18n="swipe_up">Вгору — вгадано</span>
+          </div>
+          <div class="swipe-hint hint-down">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M19 12l-7 7-7-7"/></svg>
+            <span data-i18n="swipe_down">Вниз — пропустити</span>
+          </div>
+        </div>
+        <div class="game-buttons">
+          <button class="game-btn skip-btn" id="btn-skip" onclick="Game.skip()">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 6L6 18M6 6l12 12"/></svg>
+          </button>
+          <button class="game-btn correct-btn" id="btn-correct" onclick="Game.correct()">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Round Summary Screen -->
+    <div id="screen-round-summary" class="screen">
+      <div class="screen-header">
+        <h2 data-i18n="round_summary">Підсумок раунду</h2>
+      </div>
+      <div class="summary-stats">
+        <div class="summary-stat">
+          <span class="summary-stat-value correct" id="summary-correct">0</span>
+          <span class="summary-stat-label" data-i18n="correct">Вгадано</span>
+        </div>
+        <div class="summary-stat">
+          <span class="summary-stat-value skipped" id="summary-skipped">0</span>
+          <span class="summary-stat-label" data-i18n="skipped">Пропущено</span>
+        </div>
+        <div class="summary-stat">
+          <span class="summary-stat-value total" id="summary-total">0</span>
+          <span class="summary-stat-label" data-i18n="total">Всього</span>
+        </div>
+      </div>
+      <div class="summary-word-list" id="summary-word-list">
+        <!-- populated by JS -->
+      </div>
+      <div class="summary-footer">
+        <button class="btn btn-primary btn-large" onclick="Game.nextRound()" id="btn-next-round">
+          <span data-i18n="next_round">Наступний раунд</span>
+        </button>
+        <button class="btn btn-secondary" onclick="Game.confirmFinish()" id="btn-finish-game">
+          <span data-i18n="end_game">Завершити гру</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Pass Device Screen -->
+    <div id="screen-pass" class="screen">
+      <div class="pass-content">
+        <div class="pass-icon">
+          <svg width="80" height="80" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
+        </div>
+        <h2 data-i18n="pass_device">Передайте пристрій</h2>
+        <p class="pass-team" id="pass-team-name">Команда 1</p>
+        <p class="pass-hint" data-i18n="pass_hint">Натисніть, коли будете готові</p>
+        <button class="btn btn-primary btn-large pulse" onclick="Game.startRound()" id="btn-ready">
+          <span data-i18n="ready">Готові!</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Scoreboard Screen -->
+    <div id="screen-scoreboard" class="screen">
+      <div class="screen-header">
+        <h2 data-i18n="final_scores">Фінальний рахунок</h2>
+      </div>
+      <div class="scoreboard-list" id="scoreboard-list">
+        <!-- populated by JS -->
+      </div>
+      <div class="scoreboard-footer">
+        <button class="btn btn-primary btn-large" onclick="App.showScreen('menu')" id="btn-back-menu">
+          <span data-i18n="to_menu">Головне меню</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Winner Screen -->
+    <div id="screen-winner" class="screen">
+      <div class="winner-content">
+        <div class="winner-icon">
+          <svg width="120" height="120" viewBox="0 0 24 24" fill="none" stroke="#fbbf24" stroke-width="1.5"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5C7 4 7 7 7 7"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5C17 4 17 7 17 7"/><path d="M4 22h16"/><path d="M10 22V14H8v-4a4 4 0 0 1 8 0v4h-2v8"/></svg>
+        </div>
+        <h2 class="winner-title" data-i18n="winner">Переможець!</h2>
+        <p class="winner-name" id="winner-name">Команда 1</p>
+        <p class="winner-score" id="winner-score">100</p>
+        <p class="winner-points" data-i18n="points">балів</p>
+        <button class="btn btn-primary btn-large" onclick="Game.showScoreboard()" id="btn-view-scores">
+          <span data-i18n="view_scores">Переглянути рахунки</span>
+        </button>
+        <button class="btn btn-secondary" onclick="App.showScreen('menu')">
+          <span data-i18n="new_game">Нова гра</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Categories Screen -->
+    <div id="screen-categories" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" onclick="App.showScreen('menu')">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </button>
+        <h2 data-i18n="categories">Категорії</h2>
+      </div>
+      <div class="categories-list" id="categories-list">
+        <!-- populated by JS -->
+      </div>
+    </div>
+
+    <!-- Statistics Screen -->
+    <div id="screen-statistics" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" onclick="App.showScreen('menu')">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </button>
+        <h2 data-i18n="statistics">Статистика</h2>
+      </div>
+      <div class="stats-empty" id="stats-empty">
+        <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M18 20V10M12 20V4M6 20v-6"/></svg>
+        <p data-i18n="no_stats">Статистика поки що порожня</p>
+      </div>
+      <div class="stats-content" id="stats-content" style="display:none">
+        <div class="stats-grid">
+          <div class="stat-card">
+            <span class="stat-number" id="stat-games">0</span>
+            <span class="stat-desc" data-i18n="games_played">Ігор зіграно</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number" id="stat-words-total">0</span>
+            <span class="stat-desc" data-i18n="total_words">Слів вгадано</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number" id="stat-accuracy">0%</span>
+            <span class="stat-desc" data-i18n="accuracy">Точність</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number" id="stat-best-streak">0</span>
+            <span class="stat-desc" data-i18n="best_streak">Найкраща серія</span>
+          </div>
+        </div>
+        <button class="btn btn-small btn-outline danger" onclick="App.clearStats()" data-i18n="clear_stats">Очистити статистику</button>
+      </div>
+    </div>
+
+    <!-- Settings Screen -->
+    <div id="screen-settings" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" onclick="App.showScreen('menu')">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </button>
+        <h2 data-i18n="settings">Налаштування</h2>
+      </div>
+      <div class="settings-list">
+        <div class="setting-item">
+          <span data-i18n="theme">Тема</span>
+          <select id="setting-theme" onchange="App.setTheme(this.value)">
+            <option value="dark" data-i18n="dark">Темна</option>
+            <option value="light" data-i18n="light">Світла</option>
+          </select>
+        </div>
+        <div class="setting-item">
+          <span data-i18n="sound">Звук</span>
+          <label class="toggle">
+            <input type="checkbox" id="setting-sound" checked onchange="App.setSound(this.checked)">
+            <span class="toggle-slider"></span>
+          </label>
+        </div>
+        <div class="setting-item">
+          <span data-i18n="vibration">Вібрація</span>
+          <label class="toggle">
+            <input type="checkbox" id="setting-vibration" checked onchange="App.setVibration(this.checked)">
+            <span class="toggle-slider"></span>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Rules Screen -->
+    <div id="screen-rules" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" onclick="App.showScreen('menu')">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </button>
+        <h2 data-i18n="rules">Правила гри</h2>
+      </div>
+      <div class="rules-content">
+        <div class="rule-section">
+          <h3 data-i18n="rule_goal_title">Мета гри</h3>
+          <p data-i18n="rule_goal_text">Поясніть якомога більше біблійних слів своїй команді, не називаючи саме слово.</p>
+        </div>
+        <div class="rule-section">
+          <h3 data-i18n="rule_how_title">Як грати</h3>
+          <p data-i18n="rule_how_text">Гравець бачить слово на екрані та має пояснити його команді, використовуючи описи, синоніми, алюзії — але не називаючи слово або його однокореневі слова. Якщо команда вгадує — гортайте вгору. Якщо ні — гортайте вниз.</p>
+        </div>
+        <div class="rule-section">
+          <h3 data-i18n="rule_scoring_title">Рахунок</h3>
+          <p data-i18n="rule_scoring_text">За кожне вгадане слово команда отримує 1 бал. Пропущені слова не віднімаються. Перемагає команда, яка першою набере переможну кількість балів або має найбільше балів після всіх раундів.</p>
+        </div>
+        <div class="rule-section">
+          <h3 data-i18n="rule_timer_title">Таймер</h3>
+          <p data-i18n="rule_timer_text">Кожен раунд триває обмежений час. Намагайтеся пояснити якомога більше слів, поки таймер не сплив.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- About Screen -->
+    <div id="screen-about" class="screen">
+      <div class="screen-header">
+        <button class="btn-back" onclick="App.showScreen('menu')">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </button>
+        <h2 data-i18n="about">Про гру</h2>
+      </div>
+      <div class="about-content">
+        <div class="logo-icon">
+          <span class="logo-bg"><img src="assets/icons/icon.png" alt="Біблійний Аліас" width="80"></span>
+        </div>
+        <h3>Біблійний Аліас</h3>
+        <p class="about-version">Версія 2.0.0</p>
+        <p class="about-desc" data-i18n="about_desc">Гра в слова на біблійну тематику. Випробуйте свої знання Біблії в захопливій командній грі!</p>
+        <p class="about-db-info" data-i18n="about_db" id="about-db-info">Слів у базі: 0</p>
+        <p class="about-author">Автор: Дячук Андрій Васильович</p>
+        <p class="about-email">Питання та правки: <a href="mailto:diachyk4560@gmail.com">diachyk4560@gmail.com</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast notification -->
+  <div id="toast" class="toast"></div>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/database.js"></script>
+  <script src="js/game.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/ui.js"></script>
+</body>
+</html>
